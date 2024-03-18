@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710800093
+::res://Assets/::1710799986
+icon.svg::CompressedTexture2D::9103551019687712678::1709560005::1710799986::1::::<><>::
+::res://Controllers/::1710800093
+::res://Entities/::1710797993
+::res://Scenes/::1710800358
+MainMenu.gd::GDScript::-1::1710800340::0::1::::<>VBoxContainer<>::
+MainMenu.tscn::PackedScene::9087388825768055246::1710800320::0::1::::<><>::
+::res://Scenes/Intro/::1710800098
+IntroScene.gd::GDScript::-1::1710799965::0::1::::<>Control<>::
+IntroScene.tscn::PackedScene::8196597082304869979::1710800098::0::1::::<><>::res://Scenes/Intro/IntroScene.gd<>uid://d2x3fjp5tm3e5::::res://Assets/icon.svg
+::res://Scenes/MainMenu/::1710800358

@@ -1,0 +1,6 @@
+res://Scenes/MainMenu.tscn
+res://Scenes/IntroScene.tscn
+res://Scenes/IntroScene.gd
+res://Scenes/Intro/IntroScene.tscn
+res://Scenes/MainMenu/MainMenu.tscn
+res://Scenes/MainMenu/MainMenu.gd
